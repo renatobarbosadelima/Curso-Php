@@ -6,6 +6,6 @@ echo " Crie um arquivo , Para enviar um arquivo para a area de transição use o
 echo " para enviar para o git  git commit -n de um espaço abre aspas duplas digite um texto dentro das aspas ";
 echo "aperte enter  e sera feito um commit no diretorio local";
 echo "para subir para o servidor remoto do Github navegue até a pasta e  use o codigo para determinar o nome e email padrão um apos o outro entre aspas e digite enter  
-    git config --global user.name "renatobarbosadelima"
-    git config --global user.email "renatolimaeletrica@gmail.com" ";
+    git config --global user.name "seu nome"
+    git config --global user.email "seu email" ";
 ?>
